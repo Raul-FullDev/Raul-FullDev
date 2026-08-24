@@ -6,7 +6,7 @@ Sou estudante do 4º período de Engenharia de Software na Faculdade Fametro e a
 
 Construí uma base técnica sólida no desenvolvimento Web e Mobile (focado no ecossistema JavaScript), e atualmente estou expandindo minha atuação para a área de Back-end e Dados, desenvolvendo pipelines de processamento e automação de tarefas com Python. Tenho um perfil analítico, proativo e habituado a colaborar em equipes multidisciplinares utilizando metodologias ágeis, com experiência prática validada em projetos de pesquisa e extensão universitária.
 
-## 🛠️ Competências Técnicas
+## Competências Técnicas
 
 **Linguagens e Base:**
 <br>
@@ -23,6 +23,12 @@ Construí uma base técnica sólida no desenvolvimento Web e Mobile (focado no e
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Banco de Dados e Modelagem:**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 **Dados e Ferramentas:**
 <br>
@@ -49,7 +55,6 @@ Construí uma base técnica sólida no desenvolvimento Web e Mobile (focado no e
 
 ## Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-FullDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-FullDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul-FullDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-FullDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117)
