@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Raul! 👋
 
-<!--
-**Raul-FullDev/Raul-FullDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software (Fametro)** e **Técnico em Informática para Internet (FPF Etech)**, localizado em Manaus-AM. Tenho forte base em desenvolvimento Fullstack e Mobile, e atualmente estou expandindo meus conhecimentos em automação e processamento de dados.
 
-Here are some ideas to get you started:
+### O que estou fazendo agora
+* Cursando o 4º período de Eng. de Software, com foco em Paradigmas de Programação e Estruturas de Dados.
+* Desenvolvendo projetos práticos que unem o ecossistema JavaScript (Web/Mobile) com automação em Python.
+* Buscando oportunidades de estágio em áreas analíticas, de dados e engenharia de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas Tecnologias
+* **Front-end & Mobile:** React, React Native, JavaScript, TypeScript, HTML/CSS.
+* **Back-end & Dados:** Python (Pandas), Java, Go.
+* **Ferramentas:** Git, GitHub, VS Code, Android Studio, Figma.
+
+### Meus Projetos Recentes
+* **Processamento de Dados:** Pipeline em Python para higienização e estruturação de logs.
+* **Trilha Jovem & IgarApp:** Desenvolvimento de interfaces dinâmicas e integração mobile.
+
+### Como me encontrar
+* **LinkedIn:** [https://www.linkedin.com/in/raul-rosa-443a2b42a/]
+* **Email:** rauldasilvarosa1512@gmail.com
