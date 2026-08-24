@@ -56,8 +56,4 @@ Construí uma base técnica sólida no desenvolvimento Web e Mobile (focado no e
 
 ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul-FullDev&theme=dracula)
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul-FullDev&theme=dracula)## 📊 Minhas Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul-FullDev&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-FullDev&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul-FullDev&theme=dracula)
