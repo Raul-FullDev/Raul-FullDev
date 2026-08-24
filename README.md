@@ -54,7 +54,6 @@ Construí uma base técnica sólida no desenvolvimento Web e Mobile (focado no e
 
 ## 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raul-FullDev&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-FullDev&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="48%" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Raul-FullDev&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-FullDev&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true)
